@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wangyonghe which means king of Yong He.
-- 👀 I’m interested in soya-bean milk and Deep-Fried dough stick.
-- 🌱 I’m currently learning how to cook in Market and Kitchen.
-- 💞️ I’m looking to collaborate with my best teamates
-- 📫 How to reach me in every Yong He Da Wang...
+- 👋 Hi, I’m @wangyonghe which means "King of Yong He".
+- 👀 I’m interested in soya-bean milk and deep-fried dough stick.
+- 🌱 I’m currently learning how to cook in market and kitchen.
+- 💞️ I’m looking to collaborate with my best teammates.
+- 📫 How to reach me in every Yong He Da Wang restaurant ...
 
 <!---
 wangyonghe/wangyonghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
